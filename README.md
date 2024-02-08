@@ -17,3 +17,5 @@ Skin cancer is a significant health concern worldwide, with early detection bein
 5. **Detection Module**: Integrates the trained CNN model into an application or system, enabling real-time skin cancer detection from live camera feeds or uploaded images. It allows user feedback to continuously improve the model's performance and usability in a real-world setting.
 
 ![Alt text](https://github.com/sreejith2612/Skin-Cancer-Classification/blob/main/Web/img/image_2024-02-09_000611509.png)
+![Alt text](![image](https://github.com/sreejith2612/Skin-Cancer-Classification/assets/67188299/40aed8e8-b7f5-4918-8361-80577f9391a7)
+)
